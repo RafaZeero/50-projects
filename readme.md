@@ -6,7 +6,7 @@ This repo will be to create, play, innovate, practice with 50 front-end projects
 
 - [Stacks](#stacks)
 - [Projects](#projects)
-  - [In progress](./readme.md#L22)
+  - [In progress](https://github.com/RafaZeero/50-projects/blob/main/readme.md#L22:~:text=Stacks%20used-,No%20project%20yet,-in%2Dprogress)
 - [About me](#about-me)
 
 ## Stacks
