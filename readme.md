@@ -17,10 +17,9 @@ One increment to the projects that I want to do is add some back-end to some pro
 
 ### Projects
 
-|    Project     | Stacks used |
-| :------------: | :---------: |
-| No project yet | in-progress |
-| No project yet | in-progress |
+| Order |  Project   | Stacks used |
+| :---: | :--------: | :---------: |
+|  1º   | Mood board | In-progress |
 
 ---
 
